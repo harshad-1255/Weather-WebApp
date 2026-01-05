@@ -21,4 +21,4 @@ A minimal weather web application built using HTML, CSS, and JavaScript that fet
 - Weather information is displayed dynamically on the page
 
 ## Notes
-This project was created as part of a Udemy web development course for learning and practice purposes.
+This project was created for learning and practice purposes.
